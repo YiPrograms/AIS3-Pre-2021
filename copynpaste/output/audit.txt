@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat May 22 15:07:30 2021
+Invocation: foremost flag.png 
+Output directory: /home/yi/Desktop/copynpaste/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag.png
+Start: Sat May 22 15:07:30 2021
+Length: 1 MB (1511349 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00001726.zip 	     612 KB 	     884182 	 
+1:	00000000.png 	     863 KB 	          0 	  (1200 x 675)
+Finish: Sat May 22 15:07:30 2021
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat May 22 15:07:30 2021
